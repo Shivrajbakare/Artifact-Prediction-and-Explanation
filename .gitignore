@@ -1,0 +1,2 @@
+cnn_weights/**
+svm_cifar10_model.joblib

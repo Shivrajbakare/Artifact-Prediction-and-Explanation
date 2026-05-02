@@ -1,0 +1,163 @@
+[
+    {
+        "img_path": "./test_images\\fake_01.jpg",
+        "filename": "fake_01.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.6296595335006714,
+        "predicted_artifact_list": [
+            "Abruptly cut off objects",
+            "Color coherence breaks",
+            "Inconsistent object boundaries",
+            "Misshapen ears or appendages",
+            "Scale inconsistencies within single objects",
+            "Scale inconsistencies within the same object class",
+            "Systematic color distribution anomalies",
+            "Unnatural color transitions",
+            "Unnatural Lighting Gradients"
+        ],
+        "display_name": "Bird"
+    },
+    {
+        "img_path": "./test_images\\fake_02.jpg",
+        "filename": "fake_02.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.6434844136238098,
+        "predicted_artifact_list": [
+            "Dramatic lighting that defies natural physics",
+            "Exaggerated characteristic features",
+            "Inconsistent scale of mechanical parts",
+            "Irregular proportions in mechanical components",
+            "Over-smoothing of natural textures",
+            "Unnatural Lighting Gradients"
+        ],
+        "display_name": "Airplane"
+    },
+    {
+        "img_path": "./test_images\\fake_03.jpg",
+        "filename": "fake_03.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.6858811378479004,
+        "predicted_artifact_list": [
+            "Color coherence breaks",
+            "Dramatic lighting that defies natural physics",
+            "Over-smoothing of natural textures",
+            "Systematic color distribution anomalies",
+            "Unnatural color transitions",
+            "Unnatural Lighting Gradients",
+            "Unrealistic specular highlights"
+        ],
+        "display_name": "Truck"
+    },
+    {
+        "img_path": "./test_images\\fake_04.jpg",
+        "filename": "fake_04.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.689087986946106,
+        "predicted_artifact_list": [
+            "Cinematization Effects",
+            "Movie-poster like composition of ordinary scenes",
+            "Over-smoothing of natural textures",
+            "Scale inconsistencies within single objects",
+            "Scale inconsistencies within the same object class",
+            "Unnatural Lighting Gradients",
+            "Unnaturally glossy surfaces"
+        ],
+        "display_name": "Automobile"
+    },
+    {
+        "img_path": "./test_images\\fake_05.jpg",
+        "filename": "fake_05.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.6765783429145813,
+        "predicted_artifact_list": [
+            "Asymmetric features in naturally symmetric objects",
+            "Cinematization Effects",
+            "Color coherence breaks",
+            "Misshapen ears or appendages",
+            "Movie-poster like composition of ordinary scenes",
+            "Systematic color distribution anomalies",
+            "Texture bleeding between adjacent regions",
+            "Unnatural color transitions"
+        ],
+        "display_name": "Bird"
+    },
+    {
+        "img_path": "./test_images\\real_01.jpg",
+        "filename": "real_01.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.6252087950706482,
+        "predicted_artifact_list": [
+            "Abruptly cut off objects",
+            "Inconsistent object boundaries",
+            "Misshapen ears or appendages",
+            "Scale inconsistencies within single objects",
+            "Scale inconsistencies within the same object class",
+            "Texture bleeding between adjacent regions",
+            "Unnatural Lighting Gradients"
+        ],
+        "display_name": "Frog"
+    },
+    {
+        "img_path": "./test_images\\real_02.jpg",
+        "filename": "real_02.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.6729934215545654,
+        "predicted_artifact_list": [
+            "Abruptly cut off objects",
+            "Artificial smoothness",
+            "Inconsistent object boundaries",
+            "Over-smoothing of natural textures",
+            "Scale inconsistencies within single objects",
+            "Scale inconsistencies within the same object class",
+            "Unnatural Lighting Gradients"
+        ],
+        "display_name": "Horse"
+    },
+    {
+        "img_path": "./test_images\\real_03.jpg",
+        "filename": "real_03.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.7272449135780334,
+        "predicted_artifact_list": [
+            "Artificial smoothness",
+            "Dramatic lighting that defies natural physics",
+            "Impossible mechanical connections",
+            "Impossible mechanical joints",
+            "Over-smoothing of natural textures",
+            "Physically impossible structural elements",
+            "Unnatural Lighting Gradients"
+        ],
+        "display_name": "Ship"
+    },
+    {
+        "img_path": "./test_images\\real_04.jpg",
+        "filename": "real_04.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.704529881477356,
+        "predicted_artifact_list": [
+            "Abruptly cut off objects",
+            "Dramatic lighting that defies natural physics",
+            "Inconsistent object boundaries",
+            "Misshapen ears or appendages",
+            "Over-smoothing of natural textures",
+            "Unnatural Lighting Gradients"
+        ],
+        "display_name": "Deer"
+    },
+    {
+        "img_path": "./test_images\\real_05.jpg",
+        "filename": "real_05.jpg",
+        "prediction": "Fake",
+        "fake_prob": 0.7320465445518494,
+        "predicted_artifact_list": [
+            "Color coherence breaks",
+            "Dramatic lighting that defies natural physics",
+            "Floating or disconnected components",
+            "Inconsistent shadow directions",
+            "Over-sharpening artifacts",
+            "Systematic color distribution anomalies",
+            "Unnatural color transitions"
+        ],
+        "display_name": "Airplane"
+    }
+]
