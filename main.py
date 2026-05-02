@@ -82,7 +82,7 @@ def main(folder_path, tsv_file_path, svm_path, cnn_models_base_path, gatekeeper_
             "display_name": display_name
         })
 
-        with open("output.json", "w") as f:
+        with open("intermediate_results.json", "w") as f:
             json.dump(intermediate_data, f, indent=4)
 
 def parse_arguments():
