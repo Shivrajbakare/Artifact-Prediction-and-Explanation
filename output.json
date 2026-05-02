@@ -1,0 +1,82 @@
+[
+    {
+        "index": "fake_01",
+        "explanation": {
+            "Anatomically incorrect structures": "The paws and limb joints exhibit non-standard skeletal alignment, a common artifact where AI struggles with complex biological articulation.",
+            "Texture bleeding": "There is a lack of clear separation between the fur edges and the immediate background, resulting in a 'hazy' or blended boundary.",
+            "Artificial smoothness": "Large patches of the coat lack individual hair definition, appearing as a painted gradient rather than distinct fur fibers."
+        }
+    },
+    {
+        "index": "fake_02",
+        "explanation": {
+            "Asymmetric features": "The eyes are misaligned in size and vertical positioning, which contradicts the natural bilateral symmetry of a feline face.",
+            "Improper fur direction": "Fur growth patterns appear chaotic or loop back on themselves in ways that do not follow the underlying muscle and skin structure.",
+            "Dramatic lighting": "The highlights on the fur do not match a singular light source, creating physically impossible shadow placements."
+        }
+    },
+    {
+        "index": "fake_03",
+        "explanation": {
+            "Anatomically incorrect paws": "The toes appear fused or exceed the standard count for a domestic cat, with a rubbery texture lacking defined claws or pads.",
+            "Ghosting effects": "Semi-transparent 'echoes' of fur outlines are visible near the ears, suggesting a multi-pass generation error.",
+            "Unnatural color transitions": "The coat pattern shifts from one hue to another abruptly without the soft blending typical of natural fur pigmentation."
+        }
+    },
+    {
+        "index": "fake_04",
+        "explanation": {
+            "Over-smoothing": "The facial features, particularly around the nose and mouth, appear airbrushed, losing the porous texture of a real cat's skin.",
+            "Blurred boundaries": "Fine details like whiskers disappear into the background or appear as disconnected white lines rather than originating from follicles.",
+            "Inconsistent scale": "The size of the ears relative to the skull is exaggerated beyond typical breed standards."
+        }
+    },
+    {
+        "index": "fake_05",
+        "explanation": {
+            "Cinematization effects": "The image has a high-contrast, 'movie poster' aesthetic with lighting that emphasizes aesthetic appeal over physical realism.",
+            "Misshapen appendages": "The tail or limbs appear to taper or bend at angles that do not align with feline anatomy.",
+            "Grid-like artifacts": "Subtle repeating patterns are visible in the background textures, indicative of the tiling used in some generative models."
+        }
+    },
+    {
+        "index": "real_01",
+        "explanation": {
+            "Natural texture": "The fur shows clear, individual strand definition with realistic variations in length and thickness consistent with a living animal.",
+            "Physical consistency": "Light and shadow interact with the fur follicles in a way that respects the laws of physics and a singular light source.",
+            "Correct anatomy": "The bone structure, particularly in the paws and facial symmetry, adheres to biological standards."
+        }
+    },
+    {
+        "index": "real_02",
+        "explanation": {
+            "Depth of field": "The transition from the sharp subject to the blurred background is consistent with optical lens bokeh, rather than digital 'smudging'.",
+            "Complex detail": "Moisture on the nose and the intricate structure of the iris show high-frequency details that AI often fails to replicate accurately.",
+            "Organic randomness": "Minor imperfections, such as stray hairs and natural variations in the coat, indicate an authentic biological subject."
+        }
+    },
+    {
+        "index": "real_03",
+        "explanation": {
+            "Sharp edges": "The whiskers and fur tips remain crisp against the background, showing no signs of the 'bleeding' or blending found in generated images.",
+            "Consistent lighting": "Reflections in the eyes (catchlights) accurately mirror the environment and light source direction.",
+            "Skeletal integrity": "The posture and weight distribution of the cat are consistent with real feline movement and gravity."
+        }
+    },
+    {
+        "index": "real_04",
+        "explanation": {
+            "Environmental interaction": "Shadows cast by the cat onto the surface beneath it are soft and physically accurate based on the ambient lighting.",
+            "Tonal range": "The image maintains a natural range of highlights and mid-tones without the over-saturated 'glow' common in synthetic media.",
+            "Biological symmetry": "Facial features align correctly across the midline of the skull, including the placement of ears and whiskers."
+        }
+    },
+    {
+        "index": "real_05",
+        "explanation": {
+            "Fine detail retention": "Individual hairs are visible even in the shadowed regions, demonstrating a lack of the 'black hole' shadow artifacts often seen in AI.",
+            "Material realism": "The texture of the surrounding environment (grass, fabric, or floor) shows distinct physical characteristics separate from the cat's fur.",
+            "No digital artifacts": "The image is free from tiling, grid patterns, or the 'plastic' sheen associated with generative smoothing."
+        }
+    }
+]
