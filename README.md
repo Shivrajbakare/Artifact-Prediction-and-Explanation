@@ -23,7 +23,7 @@ Report [here](https://drive.google.com/drive/folders/1DPUF47oeQ5uu9yu-ZzyJ9dRibg
 ## Usage
 
 Download model weights from [here](https://drive.google.com/drive/folders/1sccm2sgXpiGM-eSK6c9EXqfTq2n_mXUA?usp=sharing) and put them in the cnn_weights folder.
-Download svm weights from [here](https://drive.google.com/drive/folders/1ffVpkRhtRLpGxsHjxRq42hbRcAdvo9sq?usp=sharing).
+Download svm weights from [here](https://drive.google.com/file/d/1JNpTLMeg133JyGQF1UgxsYDCPPmQbC09/view?usp=drive_link).
 
 To run the code, use the `main.py` file, which is the entry point for processing images and generating artifact predictions and explanations.
 
