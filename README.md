@@ -21,7 +21,7 @@ This project predicts and explains artifacts in AI generated images using variou
 ## Usage
 
 Download model weights from [here](https://drive.google.com/drive/folders/1sccm2sgXpiGM-eSK6c9EXqfTq2n_mXUA?usp=sharing) and put them in the cnn_weights folder.
-Download svm weights from [here]().
+Download svm weights from [here](https://drive.google.com/drive/folders/1ffVpkRhtRLpGxsHjxRq42hbRcAdvo9sq?usp=sharing).
 
 To run the code, use the `main.py` file, which is the entry point for processing images and generating artifact predictions and explanations.
 
