@@ -2,6 +2,8 @@
 
 This project predicts and explains artifacts in AI generated images using various machine learning models, including CNNs, CLIP, and the Ovis1.6-Gemma2-9B model. The system integrates these models to provide artifact classification and explanations for predictions.
 
+Report [here](https://drive.google.com/drive/folders/1DPUF47oeQ5uu9yu-ZzyJ9dRibgUl0Un7?usp=drive_link).
+
 ## Installation
 
 1. Create a new Conda environment:
